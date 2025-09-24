@@ -1,0 +1,219 @@
+@media (max-width:1400px){
+    .quctionssection{
+        padding: 48px 16px;
+        gap: 0px;
+    }
+    .leftQ{
+        height: 100%;
+    }
+    .rightQ{
+        height: 100%;
+    }
+    .imagesliderdiv{
+        padding: 48px 16px;
+    }
+    .infomultypages{
+         padding: 48px 16px;
+    }
+    .infopagetext{
+        display: none;
+    }
+    .infopagetxtp1{
+        margin-top: 20px;
+        font-size: 24px;
+    }
+    .infopage1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .infopagetexthide{
+        display: flex !important;
+        flex-direction: column;
+        gap: 28px;
+        text-align: center;
+    }
+    .infopageimg1{
+        flex-direction: column;
+        align-items: center;
+        max-width: 600px;
+    }
+    .infopageimg1 img{
+        width: 219px;
+        height: 442px ;
+    }
+    .infopagetxtp2{
+        max-width: 400px;
+    }
+    .content > div{
+        display: flex;
+    }
+
+    .infopageimg2{
+        flex-direction: column;
+        align-items: center;
+        max-width: 600px;
+        margin: 40px 0px;
+        overflow: hidden;
+    }
+    .infopageimg22{
+        height: 234px !important;
+    }
+    .infopageimg3{
+        flex-direction: column;
+        align-items: center;
+        max-width: 600px;
+        margin: 40px 0px;
+    }
+    .infopageimg31{
+        width: 100%;
+    }
+
+    .infopageimg4{
+        flex-direction: column;
+        align-items: center;
+        max-width: 600px;
+        margin: 40px 0px;
+        height: 100%;
+    }
+
+    .infopageimg41{
+        width: 100%;
+        height: 295px;
+        margin-top: 30px;
+    }
+
+    .infolinks{
+        display: none;
+    }
+
+    .homeLower{
+        display: none;
+    }
+
+    .homerightimg{
+        display: none;
+    }
+    .homemidText p{
+        font-size: 25px;
+    }
+    .homebottomText{
+        width: 300px;
+    }
+
+    .Homepage{
+        padding: 48px 16px;
+    }
+
+    .navbar{
+        padding: 20px 3px
+    }
+
+    .sepbtn{
+        margin: 0px 30px
+    }
+
+}
+
+@media (max-width:1100px){
+    .commentsDiv{
+        flex-wrap: wrap;
+    }
+    .commentsDivRight{
+        justify-content: center;
+        align-items: center;
+        align-items: center;
+    }
+    .commentsDivCards{
+        justify-content: center;
+        align-items: center;
+        align-items: center;
+    }
+
+    .navLinks {
+        display: none;
+    }
+    
+
+    .navLinkMenu{
+        display: block;
+    }
+}
+
+@media(max-width:660px){
+    .infopageimg1{
+        flex-direction: column;
+        align-items: center;
+        max-width:400px;
+    }
+    .infopageimg1 img{
+        width: 219px;
+        height: 442px ;
+    }
+    .infopagetxtp2{
+        max-width: 400px;
+    }
+    .content > div{
+        display: flex;
+    }
+
+    .infopageimg2{
+        flex-direction: column;
+        align-items: center;
+        max-width: 300px;
+        margin: 40px 0px;
+        overflow: hidden;
+    }
+    .infopageimg22{
+        height: 234px !important;
+    }
+    .infopageimg3{
+        flex-direction: column;
+        align-items: center;
+        max-width: 400px;
+        margin: 40px 0px;
+    }
+    .infopageimg31{
+        width: 100%;
+    }
+
+    .infopageimg4{
+        flex-direction: column;
+        align-items: center;
+        max-width: 300px;
+        margin: 40px 0px;
+        height: 100%;
+    }
+
+    .infopageimg41{
+        width: 100%;
+        height: 295px;
+        margin-top: 30px;
+    }
+    .commentsDivleft{
+        width: 400px;
+    }
+    .commentsDivCards{
+        width: 350px;
+    }
+    .commentsDivleft p{
+        width: 350px;
+    }
+    .commentsDivleft h2{
+        width: 350px;
+        font-size: 22px;
+    }
+    .homeleftimg{
+        width: 300px;
+    }
+    .homecontante{
+        width: 400px;
+    }
+    .Homepage{
+        gap:50px;
+    }
+}
+
+
+
